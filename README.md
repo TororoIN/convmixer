@@ -9,7 +9,7 @@ datasets:
 ---
 
 #ConvMixer model
-The ConvMixer model is trained on Cifar10 dataset and is based on [the paper](https://arxiv.org/abs/2201.09792v1) [github](https://github.com/locuslab/convmixer). 
+The ConvMixer model is trained on Cifar10 dataset and is based on [the paper](https://arxiv.org/abs/2201.09792v1), [github](https://github.com/locuslab/convmixer). 
 
 Disclaimer : This is a demo model for Sayak Paul's keras [example](https://keras.io/examples/vision/convmixer/). Please refrain from using this model for any other purpose.
 
